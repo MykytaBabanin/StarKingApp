@@ -19,4 +19,7 @@ Technologies used:
 * MVVM-C architecture
 * AutoLayout
 
-This project is in progress, so you can overview pull requests!
+For Authorization screens were used UIKit
+For Movie screens - SwiftUI
+
+This project is in progress!
